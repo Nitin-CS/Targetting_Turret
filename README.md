@@ -1,6 +1,3 @@
-# Tracking-Turret
-A motion tracking turret for https://www.youtube.com/watch?v=HoRPWUl_sF8
-
 ## Install Guide
 
 Make sure pip is installed. 
